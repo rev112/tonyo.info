@@ -1,5 +1,5 @@
 # general configuration
-url: http://excentris.net
+url: https://tonyo.info
 baseurl: ''
 
 # compass configuration
@@ -10,6 +10,8 @@ compass:
   author: "Anton Ovchinnikov"
   # tagline will appear under the title (optional)
   tagline: ""
+
+  description: "Anton Ovchinnikov: the personal page"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
